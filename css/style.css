@@ -101,47 +101,47 @@ a {
 }
 .gretel{
     background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.2)), url(https://pad.mymovies.it/filmclub/2019/04/266/locandina.jpg) no-repeat center center/cover;
-    height: 700px;
+    height: 100vh;
 }
 .prospect{
     background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.7)), url(https://www.scifinow.co.uk/wp-content/uploads/2019/02/PROSPECT_KEY_ART.jpg) no-repeat center center/cover;
-    height: 700px;
+    height: 100vh;
 }
 .hater{
     background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.7)), url(https://m.media-amazon.com/images/M/MV5BNTk5YTk0ZGEtZWZlYy00ZDk2LTlmZDItOTVkMjdmYTkzNDBmXkEyXkFqcGdeQXVyMjU0NzM5MjY@._V1_.jpg) no-repeat center center/cover;
-    height: 700px;
+    height: 100vh;
 }
 .lighthouse {
     background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.7)), url(https://images-na.ssl-images-amazon.com/images/I/91m-dSi8HjL._SL1500_.jpg) no-repeat center center/cover;
-    height: 700px;
+    height: 100vh;
 }
 .timetrap {
     background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.7)), url(https://pics.filmaffinity.com/Time_Trap-664337725-large.jpg) no-repeat center center/cover;
-    height: 700px;
+    height: 100vh;
 }
 .autopsy {
     background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.7)), url(https://m.media-amazon.com/images/M/MV5BMjA2MTEzMzkzM15BMl5BanBnXkFtZTgwMjM2MTM5MDI@._V1_.jpg) no-repeat center center/cover;
-    height: 700px;
+    height: 100vh;
 }
 .annabelle {
     background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.7)), url(https://i.ytimg.com/vi/gPXhf7lzl7w/movieposter.jpg) no-repeat center center/cover;
-    height: 700px;
+    height: 100vh;
 }
 .jojo {
     background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.7)), url(https://lumiere-a.akamaihd.net/v1/images/image_a094a4bd.jpeg?region=0,0,800,1200) no-repeat center center/cover;
-    height: 700px;
+    height: 100vh;
 }
 .once {
     background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.7)), url(https://i.pinimg.com/originals/28/32/b2/2832b2089c1fed1e7e4669251d9a1128.jpg) no-repeat center center/cover;
-    height: 700px;
+    height: 100vh;
 }
 .gentlemen {
     background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.7)), url(https://images-na.ssl-images-amazon.com/images/I/91m8QW0uNVL._RI_.jpg) no-repeat center center/cover;
-    height: 700px;
+    height: 100vh;
 }
 .color {
     background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.7)), url(https://cdn.flickeringmyth.com/wp-content/uploads/2020/02/color-out-of-space-poster.jpg) no-repeat center center/cover;
-    height: 700px;
+    height: 100vh;
 }
 .showcase-content {
     color: #fff;
