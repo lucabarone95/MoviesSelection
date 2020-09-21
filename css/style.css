@@ -143,6 +143,15 @@ a {
     background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.7)), url(https://cdn.flickeringmyth.com/wp-content/uploads/2020/02/color-out-of-space-poster.jpg) no-repeat center center/cover;
     height: 100vh;
 }
+
+.squad {
+    background: linear-gradient(rgba(233, 138, 30, 0.5), rgba(152, 30, 233, 0.5)), url(/img/io.jpg) no-repeat center center;
+    color: black;
+    height: 100vh;
+}
+.black {
+    color: black !important;
+}
 .showcase-content {
     color: #fff;
     display: flex;
